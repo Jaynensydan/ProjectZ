@@ -10,6 +10,8 @@ public class NavigationToGoogle {
         System.setProperty("webdriver.chrome.driver", "/WebDriver/chromedriver_win32/chromedriver.exe");
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
+
+        TEST
     }
 
 }
